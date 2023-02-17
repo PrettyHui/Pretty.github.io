@@ -354,7 +354,7 @@ img::-moz-selection {
   }
 
   .excerpt {
-    border-left: 3px solid #12B2F8; 
+    border-left: 3px solid #f0a3ad; 
     margin: 0;
     margin-right: 10px;
     font-size: .9em;

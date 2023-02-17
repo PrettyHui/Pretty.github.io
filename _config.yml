@@ -1,9 +1,9 @@
 # Basic
-title:  小新
-subtitle: 点击头像进入
+title:  PrettyHui
+subtitle: Click avatar to enter
 # 头像里面的描述
 avatarDesc: 
-url: "https://xxcalm.github.io"
+url: "https://prettyhui.github.io"
 
 # 博客是否自动生成目录，false为不生成
 enableToc: true
@@ -12,8 +12,8 @@ enableToc: true
 # Social
 social:
     # weibo: 
-    github: xxcalm
-    # zhihu: xxcalm
+    github: PrettyHui
+    # zhihu: PrettyHui
     # juejin: xxx
     # jianshu: 
     # twitter: 
